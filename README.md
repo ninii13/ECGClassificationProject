@@ -6,12 +6,13 @@ Instructions:
 1. Download the entire folder from the MITBIH Arrhythmia Database (https://physionet.org/content/mitdb/1.0.0/)
 2. The data folder should be named "mitdb" and put in the same directory as this project folder
    E.g. root/
+   
         ├──mitdb/
         └── ECGClassificationProject/
-3. Run "preprocess.py", it should generate the processed data files: heartbeats.csv and labels.csv
-4. Run "train.py" to start training the model
-5. Run "plot_confusion_matrix.py" to visualize results
-6. Run "ptq.py" to see quantized model results
+4. Run "preprocess.py", it should generate the processed data files: heartbeats.csv and labels.csv
+5. Run "train.py" to start training the model
+6. Run "plot_confusion_matrix.py" to visualize results
+7. Run "ptq.py" to see quantized model results
 
 Additionally, 
 
