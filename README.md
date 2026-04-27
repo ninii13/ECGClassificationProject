@@ -9,7 +9,7 @@ Instructions:
    E.g.
    
        root/
-        ├──mitdb/
+        ├── mitdb/
         └── ECGClassificationProject/
 4. Run "preprocess.py", it should generate the processed data files: heartbeats.csv and labels.csv
 5. Run "train.py" to start training the model
