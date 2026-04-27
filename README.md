@@ -1,4 +1,5 @@
-Optimizing Deep Neural Network Models for Abnormal ECG Signal Detection Capstone Project (2025)
+# Optimizing Deep Neural Network Models for Abnormal ECG Signal Detection Capstone Project (2025)
+
 Project Highlights: Shared Kernel Architecture, SMOTE Sampling Technique, Post-Training Quantization
 <img width="537" height="607" alt="orig_model_graph" src="https://github.com/user-attachments/assets/99ed7022-6bc2-49a7-aeb2-f9d26d12b88e" />
 
