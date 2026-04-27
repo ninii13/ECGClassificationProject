@@ -15,8 +15,11 @@ Instructions:
 
 Additionally, 
 "datasets.py": Splits the data into training, validation, and test datasets
+
 "model.py": Model architecture definition
+
 "evaluate.py": Evaluates model accuracy and generates a simple confusion matrix
+
 These are files that do not need to be run individually.
 User Input function is also added for the seed, can be set to any integer or a random number by typing in "random".
 
