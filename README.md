@@ -1,10 +1,10 @@
 # Optimizing Deep Neural Network Models for Abnormal ECG Signal Detection Capstone Project (2025)
 
-Project Highlights: Shared Kernel Architecture, SMOTE Sampling Technique, Post-Training Quantization
+## Project Highlights: Shared Kernel Architecture, SMOTE Sampling Technique, Post-Training Quantization
 
 <img width="300" alt="model_graph" src="https://github.com/user-attachments/assets/99ed7022-6bc2-49a7-aeb2-f9d26d12b88e" />
 
-Instructions:
+### Instructions:
 1. Download the entire folder from the MITBIH Arrhythmia Database (https://physionet.org/content/mitdb/1.0.0/)
 2. The data folder should be named "mitdb" and put in the same directory as this project folder
    
@@ -30,7 +30,9 @@ These are files that do not need to be run individually.
 
 User Input function is also added for the seed, can be set to any integer or a random number by typing in "random".
 
-操作說明 (Instructions)
+---
+
+### 操作說明 (Instructions)
 1. 下載數據集：從 MIT-BIH 心律不整資料庫 (MITBIH Arrhythmia Database) 下載完整的資料夾。 (網址：https://physionet.org/content/mitdb/1.0.0/)
 2. 路徑設定：將下載的數據資料夾命名為 mitdb，並將其與此專案資料夾放在同一個目錄下。
 
