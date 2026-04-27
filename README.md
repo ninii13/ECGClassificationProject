@@ -14,6 +14,7 @@ Instructions:
 6. Run "ptq.py" to see quantized model results
 
 Additionally, 
+
 "datasets.py": Splits the data into training, validation, and test datasets
 
 "model.py": Model architecture definition
