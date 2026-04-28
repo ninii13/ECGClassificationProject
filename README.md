@@ -16,7 +16,8 @@
 4. Run "preprocess.py", it should generate the processed data files: heartbeats.csv and labels.csv
 5. Run "train.py" to start training the model
 6. Run "plot_confusion_matrix.py" to visualize results
-7. Run "ptq.py" to see quantized model results
+7. Run "plot_auc.py" to see the AUC-ROC Curve
+8. Run "ptq.py" to see quantized model results
 
 Additionally, 
 
@@ -44,7 +45,8 @@ User Input function is also added for the seed, can be set to any integer or a r
 4. 數據預處理：執行 preprocess.py。該程式會生成處理後的數據文件：heartbeats.csv 與 labels.csv。
 5. 模型訓練：執行 train.py 開始訓練模型。
 6. 結果視覺化：執行 plot_confusion_matrix.py 查看訓練結果的視覺化圖表（混淆矩陣）。
-7. 模型量化：執行 ptq.py 查看量化後模型 (Post-Training Quantization) 的執行結果。
+7. 結果視覺化：執行 plot_auc.py 查看訓練結果的AUC-ROC 曲線圖。
+8. 模型量化：執行 ptq.py 查看量化後模型 (Post-Training Quantization) 的執行結果。
 
 補充說明
 
